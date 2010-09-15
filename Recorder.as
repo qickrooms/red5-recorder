@@ -6,8 +6,7 @@ package
 		public var fileName:String="video";
 		public var width:int=320;
 		public var height:int=240;
-		public var server:String="rtmp://88.191.80.94/red5recorder/test/";
-		//public var server:String="rtmp://72.249.0.158/red5recorder/";
+		public var server:String="rtmp://192.168.1.10/red5recorder/test/";
 		public var fps:int=15;
 		public var microRate:int=22;
 		public var showVolume:Boolean=true;
